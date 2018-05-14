@@ -22,6 +22,16 @@ p{
 .container{
     margin-top: 20px;
 }
+.button{
+    background-color:white;
+    color:Pink;
+    font-size:21px;
+    margin-top:30px;
+    border:solid 3px;
+    border-color: pink;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ 
+}
 
 @media (max-width:930px){
     p{
